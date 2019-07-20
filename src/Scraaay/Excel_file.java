@@ -11,7 +11,7 @@ import org.apache.poi.xssf.usermodel.*;
 public class Excel_file {
 	
 	//エクセルファイルを置いているフォルダー
-	private final String INPUT_DIR = "/Users//takachanman/Desktop/Javaフォルダ/";
+	private final String INPUT_DIR = "エクセルファイルが入っている場所を教えて上げる 例） user/desktop...";
 	private Workbook wb = null;
 	private FileOutputStream out = null;
 			
