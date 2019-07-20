@@ -9,6 +9,10 @@ java version "1.8.0_131"で動作確認済み
 
 ## Demo
 
-![シューティングゲーム](https://user-images.githubusercontent.com/43311555/61576410-b8d25b00-ab14-11e9-8ae7-a60cc7dbb97d.gif)
 
 ## Usage
+Excel_file.javaのディレクトリの設定
+
+## Caution
+・ECサイト「ワウマ！」のみ検証済み。
+・他ECサイトで行う場合は、URLとXpathを見直す必要有り。
