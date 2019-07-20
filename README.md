@@ -16,6 +16,6 @@ java version "1.8.0_131"で動作確認済み
 Excel_file.javaのディレクトリの設定
 
 ## Caution
-・ECサイト「ワウマ！」のみ検証済み。
+ECサイト「ワウマ！」のみ検証済み。
 
-・他ECサイトで行う場合は、URLとXpathを見直す必要有り。
+他ECサイトで行う場合は、URLとXpathを見直す必要有り。
