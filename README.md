@@ -10,7 +10,7 @@ ECサイトをスクレイピングしてから、Excelに書き込み
 java version "1.8.0_131"で動作確認済み
 
 ## Demo
-
+![スクレイピングデモ](https://user-images.githubusercontent.com/43311555/61576593-cd175780-ab16-11e9-980a-9dfc85eb043c.gif)
 
 ## Usage
 Excel_file.javaのディレクトリの設定
